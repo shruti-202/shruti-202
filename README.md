@@ -5,7 +5,7 @@
  <img align="right" alt="coding" width="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"  />
 
 - 🌱 I’m currently learning **Full Stack Development**
-- 👩‍💻 All of my projects are available on my [portfolio website](https://shrutis-portfolio.netlify.app/)
+- 👩‍💻 All of my projects are available on my [portfolio website](https://shrutis-portfolioo.netlify.app/)
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/shruti-gawande)
 - 📫 How to reach me: shrutigawande1998@gmail.com
 
