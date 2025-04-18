@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Full Stack Development**
 - 👩‍💻 All of my projects are available on my [portfolio website](https://shrutis-portfolioo.netlify.app/)
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/shruti-gawande)
-- 📫 How to reach me: shrutigawande1998@gmail.com
+- 📫 You can contact me: shrutigawande1998@gmail.com
 
 
 <h3 align="left">Connect with me:</h3>
